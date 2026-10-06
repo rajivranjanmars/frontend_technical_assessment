@@ -8,7 +8,7 @@ Install the frontend with `cd frontend && npm ci`, then run `npm start`. In a se
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
 
 ## Frontend toolchain
 
