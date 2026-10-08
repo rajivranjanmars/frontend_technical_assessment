@@ -9,7 +9,7 @@
     "react-dom": "^19.3.0",
     "reactflow": "^11.8.3",
     "web-vitals": "^2.1.4",
-    "zustand": "^4.5.7"
+    "zustand": "^5.0.15"
   },
   "scripts": {
     "start": "vite --host 127.0.0.1 --port 3000",
