@@ -6,7 +6,7 @@
     "@testing-library/react": "^16.3.3",
     "@testing-library/user-event": "^14.6.7",
     "react": "^19.3.1",
-    "react-dom": "^19.3.0",
+    "react-dom": "^19.3.1",
     "reactflow": "^11.8.3",
     "web-vitals": "^6.2.3",
     "zustand": "^5.0.16"
