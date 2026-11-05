@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@testing-library/react": "^16.3.3",
-    "@testing-library/user-event": "^14.6.7",
+    "@testing-library/user-event": "^14.6.8",
     "react": "^19.3.1",
     "react-dom": "^19.3.0",
     "reactflow": "^11.8.3",
